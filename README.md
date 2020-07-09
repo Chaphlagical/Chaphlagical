@@ -4,7 +4,7 @@
 
 
 
-<img src="https://pic4.zhimg.com/50/v2-dadfe476ba680aa5d06ad2a3b66cabdd_hd.webp?source=1940ef5c" style="zoom:33%;" />
+![](https://pic4.zhimg.com/50/v2-dadfe476ba680aa5d06ad2a3b66cabdd_hd.webp?source=1940ef5c|width=100)
 
 ## My Values
 

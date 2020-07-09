@@ -28,7 +28,7 @@ Preparing for my final exam in ... August...:sob:
 
 # Contact
 
-:spider_web: Website - [home.ustc.edu.cn/~chaf](home.ustc.edu.cn/~chaf)
+:spider_web: Website - [home.ustc.edu.cn/~chaf](http://home.ustc.edu.cn/~chaf)
 
 :e-mail: E-mail - [chaf@mail.ustc.edu.cn](mailto:chaf@mail.ustc.edu.cn) 
 

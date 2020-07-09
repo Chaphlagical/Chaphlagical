@@ -2,7 +2,9 @@
 
 :star: Hi there~ I'm a undergraduate student studying in University of Science and Technology of China. Currently I live in Guangdong China. I'm majoring in Control Engineering but I have great in Computer Graphics, and planning to do research in Computer Graphics during my master/PhD's degree.
 
-![](https://pic3.zhimg.com/v2-88a892f6568adc0c7e21045f8a382076_b.webp)
+
+
+![](https://pic4.zhimg.com/50/v2-dadfe476ba680aa5d06ad2a3b66cabdd_hd.webp?source=1940ef5c)
 
 ## My Values
 

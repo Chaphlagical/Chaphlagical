@@ -1,13 +1,35 @@
-### Hi there 👋
+# Wenbo Chen
 
-<!--
-**Chaphlagical/Chaphlagical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+:star: Hi there~ I'm a undergraduate student studying in University of Science and Technology of China. Currently I live in Guangdong China. I'm majoring in Control Engineering but I have great in Computer Graphics, and planning to do research in Computer Graphics during my master/PhD's degree.
 
-- 🔭 I’m currently working on my toy render engine
-- 🌱 I’m currently learning Computer Graphics and Embedding System
-- 🤔 I’m looking for help with Render Engine Architecture Designing
-- 💬 Ask me about Python, Robotics and Graphics
-- 📫 How to reach me: [home.ustc.edu.cn/~chaf](home.ustc.edu.cn/~chaf)
-- 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
-<!-- - 👯 I’m looking to collaborate on ...-->
+![](./img/1.gif)
+
+## My Values
+
+:green_heart: Warmhearted
+
+:nerd_face: Concentrated
+
+:hushed: Curious
+
+## My Interest
+
+**Academic**: Robotics:robot:; Graphics:small_red_triangle:;Computer Vision:camera: 
+
+**Life's**: :swimming_man: :ping_pong: :movie_camera: :video_game::computer:
+
+## What I'm Doing Recently?
+
+Designing my toy render engine:smile:
+
+Attending school's online summer camp for my future master degree:worried:
+
+Preparing for my final exam in ... August...:sob:
+
+# Contact
+
+:spider_web: Website - [home.ustc.edu.cn/~chaf](home.ustc.edu.cn/~chaf)
+
+:e-mail: E-mail - [chaf@mail.ustc.edu.cn](mailto:chaf@mail.ustc.edu.cn) 
+
+**Check out some of my toy project:point_down:, if you like it, hick a :star:!**

@@ -32,4 +32,4 @@ Preparing for my final exam in ... August...:sob:
 
 :e-mail: E-mail - [chaf@mail.ustc.edu.cn](mailto:chaf@mail.ustc.edu.cn) 
 
-**Check out some of my toy projects:point_down:, if you like it, hick a :star:!**
+**Check out some of my toy projects:point_down:, if you like it, click a :star:!**

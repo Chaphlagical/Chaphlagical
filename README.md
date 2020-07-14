@@ -30,6 +30,8 @@ Preparing for my final exam in ... August...:sob:
 
 :spider_web: Website - [home.ustc.edu.cn/~chaf](http://home.ustc.edu.cn/~chaf)
 
+:house: Blog - [chaphlagical.github.io](chaphlagical.github.io)
+
 :e-mail: E-mail - [chaf@mail.ustc.edu.cn](mailto:chaf@mail.ustc.edu.cn) 
 
 **Check out some of my toy projects:point_down:, if you like it, click a :star:!**

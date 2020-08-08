@@ -1,8 +1,8 @@
 # Wenbo Chen
 
-:star: Hi there~ I'm a undergraduate student studying in University of Science and Technology of China. Currently I live in Guangdong China. I'm majoring in Control Engineering but I have great in Computer Graphics, and planning to do research in Computer Graphics during my master/PhD's degree.
+:star: Hi there~ I'm a undergraduate student studying in University of Science and Technology of China. Currently I live in Guangdong China. I'm majoring in Control Engineering and I have great in Computer Graphics, Computer Vision and Robotics.
 
-![img](https://chaphlagical.github.io/external/CG_Demo/PathTracing/images/objects.png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&amp;layout=compact" alt="Top Langs" style="zoom:80%;" />  <img src="https://github-readme-stats.vercel.app/api?username=chaphlagical&amp;count_private=true" alt="Chaf's github stats" style="zoom: 67%;" /> 
 
 ## My Values
 
@@ -17,14 +17,6 @@
 **Academic**: Robotics:robot:; Graphics:small_red_triangle:;Computer Vision:camera: 
 
 **Life's**: :swimming_man: :ping_pong: :movie_camera: :video_game::computer:
-
-## What I'm Doing Recently?
-
-Designing my toy render engine:smile:
-
-Attending school's online summer camp for my future master degree:worried:
-
-Preparing for my final exam in ... August...:sob:
 
 # Contact
 

@@ -2,7 +2,9 @@
 
 :star: Hi there~ I'm a undergraduate student studying in University of Science and Technology of China. Currently I live in Guangdong China. I'm majoring in Control Engineering and I have great in Computer Graphics, Computer Vision and Robotics.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&amp;layout=compact" alt="Top Langs" style="zoom:80%;" />  <img src="https://github-readme-stats.vercel.app/api?username=chaphlagical&amp;count_private=true" alt="Chaf's github stats" style="zoom: 67%;" /> 
+![Chaf's github stats](https://github-readme-stats.vercel.app/api?username=chaphlagical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&layout=compact)
 
 ## My Values
 

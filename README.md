@@ -4,7 +4,7 @@
 
 ![Chaf's github stats](https://github-readme-stats.vercel.app/api?username=chaphlagical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&hide=javascript,html&layout=compact)
 
 ## My Values
 

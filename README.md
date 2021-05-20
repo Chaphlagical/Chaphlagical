@@ -2,9 +2,9 @@
 
 :star: Hello there!
 
-![Chaf's github stats](https://github-readme-stats.vercel.app/api?username=chaphlagical&count_private=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Chaphlagical&show_icons=true&count_private=true&theme=radical)](https://github.com/Chaphlagical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&layout=compact&theme=radical)](https://github.com/Chaphlagical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaphlagical&hide=javascript,html&layout=compact)
 
 # Contact
 
@@ -13,3 +13,4 @@
 :house: Blog - [chaphlagical.github.io](http://chaphlagical.github.io)
 
 :e-mail: E-mail - [chaf@mail.ustc.edu.cn](mailto:chaf@mail.ustc.edu.cn) 
+

@@ -2,8 +2,11 @@
 
 :star: Hello there!
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Chaphlagical&show_icons=true&count_private=true&theme=radical)](https://github.com/Chaphlagical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&layout=compact&theme=radical)](https://github.com/Chaphlagical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaphlagical&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaphlagical&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaphlagical&theme=github_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaphlagical&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaphlagical&theme=github_dark)
 
 
 # Contact

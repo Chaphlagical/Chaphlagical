@@ -2,14 +2,16 @@
 
 :star: Hello there!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Chaphlagical">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chaphlagical&theme=github_dark" width=100% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chaphlagical&show_icons=true&theme=github_dark" width=54% />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark&layout=compact" width=45% />
 </a>
 
-<a href="https://github.com/Chaphlagical">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=chaphlagical&show_icons=true&theme=github_dark" width=100% />
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark&layout=compact" width=100% />
-</a>
+
+
+
+
 
 
 

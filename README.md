@@ -2,12 +2,27 @@
 
 :star: Hello there!
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaphlagical&theme=github_dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chaphlagical&theme=github_dark" width=100% />
+</a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaphlagical&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaphlagical&theme=github_dark) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=chaphlagical&show_icons=true&theme=github_dark" width=50% />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark" width=50% />
+</a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaphlagical&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaphlagical&theme=github_dark)
 
+
+
+ ![Chaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaphlagical&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark) ](https://github.com/Chaphlagical)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width=50% />
+</a>
 
 # Contact
 

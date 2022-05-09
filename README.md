@@ -7,7 +7,8 @@
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=chaphlagical&show_icons=true&theme=github_dark" width=53% />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark&layout=compact" width=45% />
 </p>
-## Some Demo
+
+## Demo
 
 ![](README/taichi_voxel.jpg)
 

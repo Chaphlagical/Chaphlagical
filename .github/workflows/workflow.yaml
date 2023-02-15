@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -43,7 +43,7 @@ jobs:
           plugin_notable_self: yes
           plugin_notable_types: commit
           plugin_people: yes
-          plugin_people_limit: 14
+          plugin_people_limit: 12
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
